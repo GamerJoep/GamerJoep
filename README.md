@@ -13,12 +13,12 @@
 ### 
 
 <a href="https://github.com/GamerJoep">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GamerJoep&include_all_commits=true&show_icons=true&theme=radical&count_private=true" alt="GatitoUwU's Github Stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GamerJoep&include_all_commits=true&show_icons=true&theme=darcula&count_private=true" alt="GatitoUwU's Github Stats" />
   
 </a>
 
 ### 
 
 <a href="https://github.com/GamerJoep">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GamerJoep&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GamerJoep&layout=compact&theme=darcula" />
 </a>
