@@ -1,4 +1,4 @@
-# Hi there, I'm [Joep Rasters!](https://github.com/GamerJoep) 👋
+# Hi there, I'm [Joep!](https://github.com/GamerJoep) 👋
 
 **Languages and Tools:**  
 
